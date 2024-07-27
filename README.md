@@ -1,4 +1,4 @@
-[![](https://visitcount.itsvg.in/api?id=nomankarim8&icon=2&color=3)](https://visitcount.itsvg.in)
+[![]([https://visitcount.itsvg.in/api?id=nomankarim8&icon=2&color=3)](https://visitcount.itsvg.in](https://github.com/nomankarim8/nomankarim8/blob/main/image.png?raw=true))
 
 # 💫 About Me:
 
