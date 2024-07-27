@@ -1,4 +1,4 @@
-![logo] (image.png)<br><br><br>
+![logo] (https://github.com/nomankarim8/nomankarim8/blob/main/image.png?raw=true)
 
 # 💫 About Me:
 
