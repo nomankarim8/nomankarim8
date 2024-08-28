@@ -53,7 +53,7 @@ class Languages:
 
 
 <!-- System Info -->
-### `~# ./sysinfo`
+### `😙 ./sysinfo`
 <table border="1">
   <tr>
     <th>Device</th>
