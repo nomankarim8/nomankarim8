@@ -6,7 +6,7 @@
 - 👀 I’m interested in Programming Language & Haking.<br>- 🌱 I’m currently learning In WHOMI...?<br>- 💞️ I’m looking to collaborate on SQL Injection.<br>- 📫 How to reach me Facebook,Instgram,And My Portfolio...<br>- 😄 Pronouns: I Like Programming.<br>- ⚡ Fun fact: ... HaKinG..SomE..baD..Topic.
 
 <!-- Languages -->
-### `🙂 head language.py`
+### `🙂 Head language.py`
 
 
 ```python
