@@ -21,7 +21,7 @@ class Languages:
 <br/>
 
 <!-- System Info -->
-### `😙 MY System Information`
+### `😙 ./sysinfo`
 <table border="1">
   <tr>
     <th>Device</th>
