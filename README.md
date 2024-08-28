@@ -5,7 +5,20 @@
 <br> <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"><br>
 - 👀 I’m interested in Programming Language & Haking.<br>- 🌱 I’m currently learning In WHOMI...?<br>- 💞️ I’m looking to collaborate on SQL Injection.<br>- 📫 How to reach me Facebook,Instgram,And My Portfolio...<br>- 😄 Pronouns: I Like Programming.<br>- ⚡ Fun fact: ... HaKinG..SomE..baD..Topic.
 
+<!-- Languages -->
+### `~# head language.py`
 
+
+```python
+class Languages:
+  def __init__(self):
+    self.python = "Python 🐍"
+    self.bash = "Bash 🔩"
+    self.golang = "Golang (Learning)"
+    self.future = "..."
+```
+
+<br/>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/noman.karim.8) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/noman.karim.8/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/who-m-i-855w858/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@upsidedownrider8) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/karimnoman97) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@upsidedownrider8?si=CzK6CXu6vnSa4H-v) 
@@ -37,20 +50,7 @@
 [![](https://visitcount.itsvg.in/api?id=nomankarim8&icon=2&color=3)](https://visitcount.itsvg.in)
 
 
-<!-- Languages -->
-### `~# head language.py`
 
-
-```python
-class Languages:
-  def __init__(self):
-    self.python = "Python 🐍"
-    self.bash = "Bash 🔩"
-    self.golang = "Golang (Learning)"
-    self.future = "..."
-```
-
-<br/>
 
 <!-- System Info -->
 ### `~# ./sysinfo`
