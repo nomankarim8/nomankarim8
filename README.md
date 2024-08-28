@@ -63,17 +63,17 @@ class Languages:
   <tr>
     <td>Device 1</td>
     <td>Windows 10 Pro</td>
-    <td>Intel Core i2</td>
+    <td>Intel Core i7</td>
   </tr>
   <tr>
     <td>Device 2</td>
-    <td>Xubuntu 22.04</td>
-    <td>-</td>
+    <td>Kali 2024.2</td>
+    <td>Intel core i5</td>
   </tr>
   <tr>
-    <td>Samsung Galaxy ***</td>
-    <td>Android 12, OneUI 4</td>
-    <td>Unisoc</td>
+    <td>Redmi Note 12</td>
+    <td>Xiaomi HyperOS, Snapdragon® 685</td>
+    <td>Adreno 619</td>
   </tr>
 </table>
 
