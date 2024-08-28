@@ -20,6 +20,33 @@ class Languages:
 
 <br/>
 
+<!-- System Info -->
+### `😙 ./sysinfo`
+<table border="1">
+  <tr>
+    <th>Device</th>
+    <th>Operating System</th>
+    <th>Processor</th>
+  </tr>
+  <tr>
+    <td>Device 1</td>
+    <td>Windows 10 Pro</td>
+    <td>Intel Core i7</td>
+  </tr>
+  <tr>
+    <td>Device 2</td>
+    <td>Kali 2024.2</td>
+    <td>Intel core i5</td>
+  </tr>
+  <tr>
+    <td>Redmi Note 12</td>
+    <td>Xiaomi HyperOS, Snapdragon® 685</td>
+    <td>Adreno 619</td>
+  </tr>
+</table>
+
+<!-- end -->
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/noman.karim.8) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/noman.karim.8/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/who-m-i-855w858/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@upsidedownrider8) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/karimnoman97) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@upsidedownrider8?si=CzK6CXu6vnSa4H-v) 
 
