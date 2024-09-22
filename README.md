@@ -77,6 +77,13 @@ def fibonacci(n):
         return fibonacci(n-1) + fibonacci(n-2)
 ```
 
+### 📫 Reach Out to Me
+- LinkedIn: [your-linkedin](https://www.linkedin.com/in/yourprofile)
+- Email: [youremail@example.com](mailto:youremail@example.com)
+
+<p align="center">Let's build something amazing together!</p>
+```
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=nomankarim8&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nomankarim8&theme=shadow_green&hide_border=false)<br/>
