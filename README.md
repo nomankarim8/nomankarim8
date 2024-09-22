@@ -78,11 +78,10 @@ def fibonacci(n):
 ```
 
 ### 📫 Reach Out to Me
-- LinkedIn: [your-linkedin](https://www.linkedin.com/in/yourprofile)
-- Email: [youremail@example.com](mailto:youremail@example.com)
+- LinkedIn: [MY-linkedin](https://www.linkedin.com/in/who-m-i-855w858/)
+- Email: [karimnoman97@gmail.com](mailto:karimnoman97@gmail.com)
 
 <p align="center">Let's build something amazing together!</p>
-```
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=nomankarim8&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
