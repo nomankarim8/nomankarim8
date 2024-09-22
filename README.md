@@ -65,7 +65,17 @@ class Languages:
 
 <p align="center"><img src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif" alt="Bt">
 
+### 💡 Favorite Code Snippet
 
+```python
+def fibonacci(n):
+    if n <= 0:
+        return 0
+    elif n == 1:
+        return 1
+    else:
+        return fibonacci(n-1) + fibonacci(n-2)
+```
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=nomankarim8&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
