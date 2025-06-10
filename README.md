@@ -98,32 +98,6 @@ def fibonacci(n):
 
 
 
-<!-- System Info -->
-### `😙 ./sysinfo`
-<table border="1">
-  <tr>
-    <th>Device</th>
-    <th>Operating System</th>
-    <th>Processor</th>
-  </tr>
-  <tr>
-    <td>Device 1</td>
-    <td>Windows 10 Pro</td>
-    <td>Intel Core i7</td>
-  </tr>
-  <tr>
-    <td>Device 2</td>
-    <td>Kali 2024.2</td>
-    <td>Intel core i5</td>
-  </tr>
-  <tr>
-    <td>Redmi Note 12</td>
-    <td>Xiaomi HyperOS, Snapdragon® 685</td>
-    <td>Adreno 619</td>
-  </tr>
-</table>
-
-
 ### 📫 Reach Out to Me
 - LinkedIn: [MY-linkedin](https://www.linkedin.com/in/who-m-i-855w858/)
 - Email: [karimnoman97@gmail.com](mailto:karimnoman97@gmail.com)
