@@ -99,7 +99,7 @@ def fibonacci(n):
 
 
 ### 📫 Reach Out to Me
-- LinkedIn: [MY-linkedin](https://www.linkedin.com/in/who-m-i-855w858/)
+- LinkedIn: [MY-linkedin](https://www.linkedin.com/in/nomankarim8/)
 - Email: [karimnoman97@gmail.com](mailto:karimnoman97@gmail.com)
 
 <p align="center">Let's build something amazing together!</p>
