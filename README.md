@@ -86,6 +86,9 @@ These are technologies I've worked with or explored; the badges are not claims o
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+
+**Currently learning**
+
 ![Go](https://img.shields.io/badge/Go_learning-00ADD8?style=flat&logo=go&logoColor=white)
 
 **Tools and platforms**
@@ -103,6 +106,8 @@ These are technologies I've worked with or explored; the badges are not claims o
 </p>
 
 The card shows public GitHub statistics and is provided by an external service. If it is unavailable, visit my [GitHub profile](https://github.com/nomankarim8), which remains the source of truth.
+
+My contribution activity is visible on the [GitHub profile](https://github.com/nomankarim8).
 
 ## A Small Python Example
 
