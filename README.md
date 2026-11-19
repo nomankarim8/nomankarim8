@@ -1,4 +1,6 @@
-<h1 align="center">Hi, I'm Noman Karim</h1>
+<p align="center">
+  <img src="./assets/profile-banner.svg" alt="Noman Karim — software engineering, AI, and full-stack development" width="100%" />
+</p>
 
 <p align="center">
   <strong>Building intelligent, practical software—one project at a time.</strong>
@@ -35,52 +37,54 @@ I'm a CSE undergraduate interested in building useful software and exploring how
 
 ## Featured Projects
 
-### [Smart AI-Based Vehicle Parking Management System](https://github.com/nomankarim8/smart-parking)
+### 01 · [Smart AI-Based Vehicle Parking Management System](https://github.com/nomankarim8/smart-parking)
 
 A full-stack parking-management project combining vehicle and slot operations with a camera-assisted ALPR workflow and an operations dashboard. Plate recognition and external integrations depend on separately configured models, services, and hardware.
 
-**Built with:** Python, FastAPI, React, TypeScript, MySQL/MariaDB, OpenCV, and OCR tools.
+<sub>FULL-STACK · COMPUTER VISION</sub>
 
-### [Ncover — Academic Cover Page Generator](https://github.com/nomankarim8/Ncover)
+**Stack** · Python · FastAPI · React · TypeScript · MySQL/MariaDB · OpenCV
+
+### 02 · [Ncover — Academic Cover Page Generator](https://github.com/nomankarim8/Ncover)
 
 A web app for creating assignment and lab-report cover pages, previewing an A4 layout, and exporting a print-ready PDF.
 
-**Built with:** React, TypeScript, Tailwind CSS, html2canvas, and jsPDF.
+<sub>WEB APPLICATION · PDF GENERATION</sub>
 
-### [Project NILA — AI Voice Assistant](https://github.com/nomankarim8/Project-NILA)
+**Stack** · React · TypeScript · Tailwind CSS · html2canvas · jsPDF
+
+### 03 · [Project NILA — AI Voice Assistant](https://github.com/nomankarim8/Project-NILA)
 
 A Python voice-assistant prototype with speech input and output, text fallback, conversational responses through the OpenAI API, and simple website-opening commands.
 
-**Built with:** Python, OpenAI API, SpeechRecognition, and pyttsx3.
+<sub>PYTHON · VOICE ASSISTANT</sub>
+
+**Stack** · Python · OpenAI API · SpeechRecognition · pyttsx3
 
 ## Technical Toolkit
 
 These are technologies I've worked with or explored; the badges are not claims of expert-level proficiency.
 
-**Programming languages**
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+`C` · `PHP` · `SQL`
 
-**Frontend and web**
+**Frontend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+`HTML5` · `CSS3` · `Bootstrap`
 
-**Backend and data**
+**Backend & data**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+`SQLite`
 
 **AI and computer vision**
 
@@ -96,8 +100,7 @@ These are technologies I've worked with or explored; the badges are not claims o
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat&logo=windows&logoColor=white)
+`Linux` · `Windows`
 
 ## GitHub
 
