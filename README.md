@@ -1,107 +1,128 @@
-![logo](https://github.com/nomankarim8/nomankarim8/blob/main/image.png?raw=true)
+<h1 align="center">Hi, I'm Noman Karim</h1>
 
-# 💫 About Me:
- 
-<br> <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"><br>
-- 👀 I’m interested in Programming Language & Haking.<br>- 🌱 I’m currently learning In WHOMI...?<br>- 💞️ I’m looking to collaborate on SQL Injection.<br>- 📫 How to reach me Facebook,Instgram,And My Portfolio...<br>- 😄 Pronouns: I Like Programming.<br>- ⚡ Fun fact: ... HaKinG..SomE..baD..Topic.
-
-<!-- Languages -->
-### `🙂 Head language.py`
-
-
-```python
-class Languages:
-  def __init__(self):
-    self.python = "Python 🐍"
-    self.bash = "Bash 🔩"
-    self.golang = "Golang (Learning)"
-    self.future = "..."
-```
-
-<br/>
-
-<!-- System Info -->
-### `😙 ./sysinfo`
-<table border="1">
-  <tr>
-    <th>Device</th>
-    <th>Operating System</th>
-    <th>Processor</th>
-  </tr>
-  <tr>
-    <td>Device 1</td>
-    <td>Windows 10 Pro</td>
-    <td>Intel Core i7</td>
-  </tr>
-  <tr>
-    <td>Device 2</td>
-    <td>Kali 2024.2</td>
-    <td>Intel core i5</td>
-  </tr>
-  <tr>
-    <td>Redmi Note 12</td>
-    <td>Xiaomi HyperOS, Snapdragon® 685</td>
-    <td>Adreno 619</td>
-  </tr>
-</table>
-
-<!-- end -->
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/noman.karim.8) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/noman.karim.8/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/who-m-i-855w858/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@upsidedownrider8) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/karimnoman97) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@upsidedownrider8?si=CzK6CXu6vnSa4H-v) 
-
-### 🔧 Technologies & Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&color=007ACC" alt="VS Code">
-  <img src="https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&color=F05032" alt="Git">
-  <img src="https://img.shields.io/badge/Cloud-GitHub-informational?style=flat&logo=github&color=181717" alt="GitHub">
-  <img src="https://img.shields.io/badge/Platform-Linux-informational?style=flat&logo=linux&color=FCC624" alt="Linux">
+  <strong>Building intelligent, practical software—one project at a time.</strong>
+  <br />
+  Computer Science &amp; Engineering undergraduate at City University, Bangladesh
 </p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat-square&logo=github&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat-square&logo=adobe&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat-square&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white)
-
-# 🖥 Hey, Good mind people
-
-<p align="center"><img src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif" alt="Bt">
-
-### 💡 Favorite Code Snippet
-
-```python
-def fibonacci(n):
-    if n <= 0:
-        return 0
-    elif n == 1:
-        return 1
-    else:
-        return fibonacci(n-1) + fibonacci(n-2)
-```
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nomankarim8&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=nomankarim8&theme=shadow_green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nomankarim8&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nomankarim8&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=nomankarim8&limit=5&theme=shadow_green&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="https://github.com/nomankarim8">GitHub</a>
+  ·
+  <a href="https://nomankarim8.github.io/nomanakarim8-Portfolio/">Portfolio</a>
+  ·
+  <a href="mailto:karimnoman97@gmail.com">Email</a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=nomankarim8&icon=2&color=3)](https://visitcount.itsvg.in)
 
+## About
 
+I'm a CSE undergraduate interested in building useful software and exploring how intelligent technology can solve practical problems. My projects span web applications, automation, and computer vision.
 
+- 🎓 Studying Computer Science &amp; Engineering at City University, Bangladesh.
+- 🧩 Interested in software engineering, full-stack development, AI/ML, computer vision, and databases.
+- 🌱 Currently exploring Go and continuing to grow through hands-on projects.
+- 🤝 Open to thoughtful collaboration on practical software and open-source projects.
 
-### 📫 Reach Out to Me
-- LinkedIn: [MY-linkedin](https://www.linkedin.com/in/nomankarim8/)
-- Email: [karimnoman97@gmail.com](mailto:karimnoman97@gmail.com)
+## Areas I'm Exploring
 
-<p align="center">Let's build something amazing together!</p>
+- Artificial intelligence and machine learning
+- Full-stack web application development
+- Computer vision and license-plate recognition
+- Backend systems and database design
+- Ethical cybersecurity
 
-<!-- end -->
+## Featured Projects
+
+### [Smart AI-Based Vehicle Parking Management System](https://github.com/nomankarim8/smart-parking)
+
+A full-stack parking-management project combining vehicle and slot operations with a camera-assisted ALPR workflow and an operations dashboard. Plate recognition and external integrations depend on separately configured models, services, and hardware.
+
+**Built with:** Python, FastAPI, React, TypeScript, MySQL/MariaDB, OpenCV, and OCR tools.
+
+### [Ncover — Academic Cover Page Generator](https://github.com/nomankarim8/Ncover)
+
+A web app for creating assignment and lab-report cover pages, previewing an A4 layout, and exporting a print-ready PDF.
+
+**Built with:** React, TypeScript, Tailwind CSS, html2canvas, and jsPDF.
+
+### [Project NILA — AI Voice Assistant](https://github.com/nomankarim8/Project-NILA)
+
+A Python voice-assistant prototype with speech input and output, text fallback, conversational responses through the OpenAI API, and simple website-opening commands.
+
+**Built with:** Python, OpenAI API, SpeechRecognition, and pyttsx3.
+
+## Technical Toolkit
+
+These are technologies I've worked with or explored; the badges are not claims of expert-level proficiency.
+
+**Programming languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+**Frontend and web**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+
+**Backend and data**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+
+**AI and computer vision**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![Go](https://img.shields.io/badge/Go_learning-00ADD8?style=flat&logo=go&logoColor=white)
+
+**Tools and platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat&logo=windows&logoColor=white)
+
+## GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nomankarim8&amp;show_icons=true&amp;hide_border=true&amp;theme=transparent" alt="GitHub statistics for nomankarim8" />
+</p>
+
+The card shows public GitHub statistics and is provided by an external service. If it is unavailable, visit my [GitHub profile](https://github.com/nomankarim8), which remains the source of truth.
+
+## A Small Python Example
+
+```python
+def fibonacci(n: int) -> int:
+    if n < 0:
+        raise ValueError("n must be non-negative")
+
+    previous, current = 0, 1
+    for _ in range(n):
+        previous, current = current, previous + current
+    return previous
+```
+
+## Contact
+
+If you're working on a practical software project and would like to collaborate, feel free to reach out.
+
+- **Email:** [karimnoman97@gmail.com](mailto:karimnoman97@gmail.com)
+- **Portfolio:** [nomankarim8.github.io/nomanakarim8-Portfolio](https://nomankarim8.github.io/nomanakarim8-Portfolio/)
+- **GitHub:** [github.com/nomankarim8](https://github.com/nomankarim8)
+
+<p align="center"><em>Let's build something useful together.</em></p>
