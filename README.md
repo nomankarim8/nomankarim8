@@ -1,10 +1,4 @@
-<!-- ==========================================================
-     NOMAN KARIM — DEVELOPER PORTFOLIO
-     VERSION 4.0 | PREMIUM BENTO EDITION
-     MIDNIGHT / EMERALD / GLASS-INSPIRED AESTHETIC
-     ========================================================== -->
 
-<div align="center">
 
 <!-- =========================================================
      NOMAN KARIM | GitHub Profile README
