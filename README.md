@@ -17,9 +17,7 @@
 
   <br />
 
-  <a href="https://readme-typing-svg.demolab.com/demo/">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=34D399&center=true&vCenter=true&width=700&height=45&lines=Building+intelligent%2C+practical+software.;Exploring+AI%2C+web+development+%26+computer+vision.;Learning+continuously.+Building+meaningfully." alt="Animated developer tagline" />
-  </a>
+
 
   <br /><br />
 
