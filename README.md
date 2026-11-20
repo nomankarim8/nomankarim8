@@ -1,197 +1,230 @@
-<!-- =========================================================
-     NOMAN KARIM | PREMIUM GITHUB PROFILE
-     Theme: Midnight Navy / Emerald / Teal
-     ========================================================= -->
+<!-- ==========================================================
+     NOMAN KARIM — DEVELOPER PORTFOLIO
+     VERSION 4.0 | PREMIUM BENTO EDITION
+     MIDNIGHT / EMERALD / GLASS-INSPIRED AESTHETIC
+     ========================================================== -->
 
 <div align="center">
 
-  <!-- HERO BANNER -->
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:07111F,45:064E3B,100:10B981&text=NOMAN%20KARIM&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20CSE%20UNDERGRADUATE&descSize=15&descAlignY=58&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:050816,35:102A43,70:065F46,100:10B981&text=NOMAN%20KARIM&fontSize=64&fontColor=FFFFFF&fontAlignY=36&desc=SOFTWARE%20DEVELOPER%20%20%7C%20%20TECH%20ENTHUSIAST&descSize=16&descAlignY=56&animation=fadeIn"
     width="100%"
-    alt="Noman Karim — Software Developer"
+    alt="Noman Karim — Developer Portfolio"
   />
 
   <br/>
 
-  <!-- ANIMATED INTRO -->
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=10B981&center=true&vCenter=true&width=700&height=55&lines=Hello%2C+World!+I'm+Noman+Karim.;I+Build+Things+That+Solve+Problems.;Exploring+AI+%26+Intelligent+Systems.;Code.+Create.+Experiment.+Repeat."
-    alt="Animated introduction"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=900&color=34D399&center=true&vCenter=true&width=680&height=50&lines=Hello%2C+World!+I'm+Noman+Karim.;I+turn+ideas+into+working+software.;Exploring+AI+%2F+ML+%2F+Computer+Vision.;Building.+Breaking.+Learning.+Improving."
+    alt="Animated developer introduction"
   />
 
   <br/><br/>
 
-  <!-- PROFILE ACTIONS -->
   <a href="https://github.com/nomankarim8">
-    <img src="https://img.shields.io/badge/GITHUB-Explore%20my%20work-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://nomankarim8.github.io/nomanakarim8-Portfolio/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-Visit%20my%20website-065F46?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/PORTFOLIO-064E3B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="mailto:karimnoman97@gmail.com">
-    <img src="https://img.shields.io/badge/CONTACT-Let's%20connect-0F766E?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact"/>
+    <img src="https://img.shields.io/badge/LET'S_CONNECT-0F766E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 
   <br/><br/>
 
-  <img src="https://komarev.com/ghpvc/?username=nomankarim8&style=for-the-badge&color=047857&label=PROFILE+VIEWS" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/nomankarim8?style=for-the-badge&color=065F46&labelColor=111827&label=FOLLOWERS" alt="GitHub followers"/>
+  <img src="https://komarev.com/ghpvc/?username=nomankarim8&style=flat-square&color=059669&label=PROFILE+VIEWS" alt="Profile views"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/nomankarim8?style=flat-square&color=059669&labelColor=101820&label=FOLLOWERS" alt="GitHub followers"/>
 
   <br/><br/>
 
-  <samp>DESIGNING · DEVELOPING · LEARNING · INNOVATING</samp>
-
-</div>
-
----
-
-<div align="center">
-
-  ### ◆ NAVIGATE MY PROFILE ◆
-
-  [About](#-01--who-am-i) ·
-  [Focus](#-02--what-drives-me) ·
-  [Projects](#-03--things-ive-built) ·
-  [Skills](#-04--my-tech-universe) ·
-  [Analytics](#-05--github-insights) ·
-  [Connect](#-07--lets-connect)
+  <samp>✦ THINK DIFFERENTLY &nbsp;·&nbsp; BUILD INTELLIGENTLY &nbsp;·&nbsp; KEEP EVOLVING ✦</samp>
 
 </div>
 
 <br/>
 
-## 🟢 01 / WHO AM I?
+<!-- ====================== NAVIGATION ====================== -->
+
+<div align="center">
+
+| [01 · Profile](#-01--the-person-behind-the-code) | [02 · Focus](#-02--my-world-of-technology) | [03 · Projects](#-03--selected-work) |
+|:---:|:---:|:---:|
+| [04 · Stack](#-04--technology-stack) | [05 · Analytics](#-05--github-dashboard) | [06 · Contact](#-06--lets-create-something) |
+
+</div>
+
+---
+
+<!-- ======================= ABOUT ========================== -->
+
+## <img src="https://img.shields.io/badge/01-PROFILE-064E3B?style=flat-square" alt="01"/> The Person Behind the Code
 
 <table>
 <tr>
-<td width="62%" valign="top">
+<td width="65%" valign="top">
 
-### Hey, I'm Noman Karim!
+### Hey, I'm Noman Karim.
 
-I'm a Computer Science & Engineering undergraduate at **City University, Bangladesh**, passionate about exploring technology and building practical software solutions.
+A Computer Science & Engineering undergraduate at **City University, Bangladesh**, passionate about software development, intelligent technologies, and solving practical problems through code.
 
-I enjoy working at the intersection of software engineering, intelligent systems, and real-world problem-solving.
+I enjoy understanding how things work, experimenting with new technologies, and transforming ideas into useful applications.
 
-My approach is simple:
+**A little more about me:**
 
-> Understand the problem.  
-> Design the solution.  
-> Build something that works.
-
-- 🎓 CSE Undergraduate
-- 💻 Software & Full-Stack Development
-- 🤖 AI and Machine Learning Enthusiast
-- 👁️ Computer Vision & Automation
-- 🔐 Ethical Cybersecurity Explorer
-- 🌱 Currently exploring Go
-- 🤝 Open to meaningful collaborations
+- 🎓 Studying Computer Science & Engineering.
+- 💻 Building practical software and web applications.
+- 🤖 Exploring Artificial Intelligence and Machine Learning.
+- 👁️ Interested in Computer Vision and intelligent automation.
+- 🗄️ Working with backend systems and databases.
+- 🔐 Exploring ethical cybersecurity.
+- 🌱 Currently learning Go.
+- 🤝 Interested in meaningful collaborations.
 
 </td>
-<td width="38%" align="center" valign="middle">
+<td width="35%" align="center" valign="middle">
 
-  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="100%" alt="Developer coding animation"/>
+  <img
+    src="https://github.com/nomankarim8.png"
+    width="155"
+    alt="Noman Karim GitHub avatar"
+  />
 
   <br/><br/>
 
-  <b>MY DEVELOPER MINDSET</b>
+  <b>NOMAN KARIM</b>
 
   <br/>
 
-  <img src="https://img.shields.io/badge/THINK-0B1220?style=flat-square" alt="Think"/>
-  <img src="https://img.shields.io/badge/BUILD-065F46?style=flat-square" alt="Build"/>
-  <img src="https://img.shields.io/badge/IMPROVE-0F766E?style=flat-square" alt="Improve"/>
+  <sub>Developer in Progress</sub>
+
+  <br/><br/>
+
+  <img src="https://img.shields.io/badge/MINDSET-LEARN-064E3B?style=flat-square" alt="Learn"/>
+  <br/>
+  <img src="https://img.shields.io/badge/MINDSET-BUILD-065F46?style=flat-square" alt="Build"/>
+  <br/>
+  <img src="https://img.shields.io/badge/MINDSET-IMPROVE-0F766E?style=flat-square" alt="Improve"/>
 
 </td>
 </tr>
 </table>
 
+> "The goal isn't just to write code. It's to build something that makes a difference."
+
 ---
 
-## 🧭 02 / WHAT DRIVES ME?
+<!-- ======================= FOCUS ========================== -->
+
+## <img src="https://img.shields.io/badge/02-EXPLORATION-065F46?style=flat-square" alt="02"/> My World of Technology
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 Artificial Intelligence
+### ◈ Artificial Intelligence
 
-Exploring machine learning, AI-powered applications, intelligent automation, and practical AI integrations.
-
-</td>
-<td width="50%" valign="top">
-
-### 🌐 Software Engineering
-
-Designing web applications, backend services, REST APIs, and database-driven software.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 👁️ Computer Vision
-
-Interested in image processing, OCR, object detection, and Automatic License Plate Recognition.
-
-</td>
-<td width="50%" valign="top">
-
-### 🔐 Ethical Cybersecurity
-
-Learning networking, web application security, vulnerability analysis, and responsible security testing.
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-  <img src="https://img.shields.io/badge/CURRENTLY_EXPLORING-Go%20%7C%20AI%2FML%20%7C%20Computer%20Vision-065F46?style=for-the-badge&logo=target&logoColor=white" alt="Current interests"/>
-
-</div>
-
----
-
-## 🚀 03 / THINGS I'VE BUILT
-
-<div align="center">
-
-  <samp>IDEAS TURNED INTO CODE · PROJECTS BUILT THROUGH EXPERIMENTATION</samp>
-
-</div>
+Exploring machine learning, AI-powered applications, intelligent systems, and automation.
 
 <br/>
 
+`Python` `Machine Learning` `OpenAI`
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ Full-Stack Engineering
+
+Creating responsive interfaces, backend services, APIs, and database-driven applications.
+
+<br/>
+
+`React` `TypeScript` `FastAPI`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ◈ Computer Vision
+
+Exploring image processing, OCR, object detection, and Automatic License Plate Recognition.
+
+<br/>
+
+`OpenCV` `OCR` `ALPR`
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ Ethical Cybersecurity
+
+Learning networking, application security, vulnerability analysis, and responsible testing.
+
+<br/>
+
+`Linux` `Networking` `Web Security`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+  <br/>
+
+  <img src="https://img.shields.io/badge/CURRENT_LEARNING-GO-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Learning Go"/>
+  <img src="https://img.shields.io/badge/INTEREST-AI%20%26%20ML-412991?style=for-the-badge&logo=openai&logoColor=white" alt="AI and ML"/>
+  <img src="https://img.shields.io/badge/INTEREST-COMPUTER%20VISION-0F766E?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision"/>
+
+</div>
+
+---
+
+<!-- ======================= PROJECTS ======================= -->
+
+## <img src="https://img.shields.io/badge/03-PORTFOLIO-047857?style=flat-square" alt="03"/> Selected Work
+
+<div align="center">
+
+  <samp>FROM CONCEPT TO CODE — PROJECTS I'VE WORKED ON</samp>
+
+  <br/><br/>
+
+</div>
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
 <div align="center">
 
-  <img src="https://img.shields.io/badge/01-INTELLIGENT%20SYSTEM-065F46?style=for-the-badge" alt="Project 1"/>
+<img src="https://img.shields.io/badge/FEATURED_PROJECT_01-INTELLIGENT_SYSTEM-064E3B?style=for-the-badge" alt="Featured project"/>
 
-  ### 🚗 Smart AI Parking
+<h3>🚘 Smart AI Parking</h3>
 
 </div>
 
-An AI-based vehicle parking management project combining parking operations, camera-assisted vehicle identification, and Automatic License Plate Recognition.
+An intelligent vehicle parking management system combining parking operations, camera-assisted vehicle identification, and an Automatic License Plate Recognition workflow.
 
-**Core technologies**
+**Technology ecosystem**
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,react,typescript,mysql&theme=dark" alt="Smart parking technologies" width="100%"/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,react,typescript,mysql&theme=dark" alt="Smart parking technology stack" width="100%"/>
 
-**Key areas**
-- Parking slot management
-- ALPR workflow
-- Backend and frontend integration
-- Database-driven operations
+**Project focus**
+
+- Parking slot management.
+- Vehicle identification workflow.
+- ALPR integration.
+- Frontend and backend communication.
+- Database-driven operations.
 
 <div align="center">
 
-  <a href="https://github.com/nomankarim8/smart-parking">
-    <img src="https://img.shields.io/badge/VIEW_PROJECT-Repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="Smart parking repository"/>
-  </a>
+<a href="https://github.com/nomankarim8/smart-parking">
+<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-000000?style=for-the-badge&logo=github&logoColor=white" alt="Smart parking repository"/>
+</a>
 
 </div>
 
@@ -200,32 +233,34 @@ An AI-based vehicle parking management project combining parking operations, cam
 
 <div align="center">
 
-  <img src="https://img.shields.io/badge/02-WEB%20APPLICATION-0F766E?style=for-the-badge" alt="Project 2"/>
+<img src="https://img.shields.io/badge/FEATURED_PROJECT_02-WEB_APPLICATION-0F766E?style=for-the-badge" alt="Featured project"/>
 
-  ### 📄 Ncover
+<h3>📄 Ncover</h3>
 
 </div>
 
-A web-based Academic Cover Page Generator for creating, previewing, and exporting professional A4 assignment and laboratory report covers.
+A web-based Academic Cover Page Generator designed to create, preview, and export professional A4 assignment and laboratory report covers.
 
-**Core technologies**
+**Technology ecosystem**
 
-<img src="https://skillicons.dev/icons?i=react,typescript,tailwind,vite&theme=dark" alt="Ncover technologies" width="100%"/>
+<img src="https://skillicons.dev/icons?i=react,typescript,tailwind,vite&theme=dark" alt="Ncover technology stack" width="100%"/>
 
-**Key areas**
-- Academic cover generation
-- A4 layout preview
-- PDF export
-- Responsive web interface
+**Project focus**
+
+- Academic cover generation.
+- A4 document preview.
+- PDF export.
+- Responsive user interface.
+- Customizable cover layouts.
 
 <div align="center">
 
-  <a href="https://github.com/nomankarim8/Ncover">
-    <img src="https://img.shields.io/badge/VIEW_PROJECT-Repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="Ncover repository"/>
-  </a>
-  <a href="https://nomankarim8.github.io/Ncover/">
-    <img src="https://img.shields.io/badge/OPEN-Live%20Demo-065F46?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Ncover live demo"/>
-  </a>
+<a href="https://github.com/nomankarim8/Ncover">
+<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-000000?style=for-the-badge&logo=github&logoColor=white" alt="Ncover repository"/>
+</a>
+<a href="https://nomankarim8.github.io/Ncover/">
+<img src="https://img.shields.io/badge/LIVE%20DEMO-065F46?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Ncover demo"/>
+</a>
 
 </div>
 
@@ -236,30 +271,33 @@ A web-based Academic Cover Page Generator for creating, previewing, and exportin
 
 <div align="center">
 
-  <img src="https://img.shields.io/badge/03-AI%20EXPERIMENT-047857?style=for-the-badge" alt="Project 3"/>
+<img src="https://img.shields.io/badge/PROJECT_03-AI_EXPERIMENT-047857?style=for-the-badge" alt="Project 3"/>
 
-  ### 🎙️ Project NILA
+<h3>🎙️ Project NILA</h3>
 
 </div>
 
 A Python-based voice assistant prototype exploring speech interaction, conversational AI, and desktop automation.
 
-**Core technologies**
+**Technology ecosystem**
 
-<img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" height="40"/>
+<img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python"/>
+
 <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"/>
+<img src="https://img.shields.io/badge/SpeechRecognition-065F46?style=flat-square" alt="Speech Recognition"/>
 
-**Key areas**
-- Speech input and output
-- Conversational AI integration
-- Text-based fallback
-- Simple desktop commands
+**Project focus**
+
+- Speech input and output.
+- Conversational AI integration.
+- Text fallback.
+- Simple desktop commands.
 
 <div align="center">
 
-  <a href="https://github.com/nomankarim8/Project-NILA">
-    <img src="https://img.shields.io/badge/VIEW_PROJECT-Repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="Project NILA repository"/>
-  </a>
+<a href="https://github.com/nomankarim8/Project-NILA">
+<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-000000?style=for-the-badge&logo=github&logoColor=white" alt="Project NILA repository"/>
+</a>
 
 </div>
 
@@ -268,26 +306,29 @@ A Python-based voice assistant prototype exploring speech interaction, conversat
 
 <div align="center">
 
-  <img src="https://img.shields.io/badge/04-MORE%20EXPERIMENTS-0F766E?style=for-the-badge" alt="More work"/>
+<img src="https://img.shields.io/badge/PROJECT_04-EXPERIMENTAL-0F766E?style=for-the-badge" alt="Project 4"/>
 
-  ### 🧪 What's Next?
+<h3>🧪 What's Next?</h3>
 
 </div>
 
-I continuously experiment with new ideas, explore technologies, and develop practical software projects.
+My development journey doesn't stop with existing projects.
 
-**Areas of interest**
-- Machine Learning applications
-- Smart automation systems
-- Backend engineering
-- Database management
-- Developer tools
+I'm continuously exploring new concepts and experimenting with technology.
+
+**Future exploration**
+
+- AI-powered utilities.
+- Smart automation.
+- Intelligent web applications.
+- Backend engineering.
+- Developer productivity tools.
 
 <div align="center">
 
-  <a href="https://github.com/nomankarim8?tab=repositories">
-    <img src="https://img.shields.io/badge/EXPLORE-ALL%20REPOSITORIES-111827?style=for-the-badge&logo=github&logoColor=white" alt="All repositories"/>
-  </a>
+<a href="https://github.com/nomankarim8?tab=repositories">
+<img src="https://img.shields.io/badge/DISCOVER%20MORE-ALL%20REPOSITORIES-000000?style=for-the-badge&logo=github&logoColor=white" alt="All repositories"/>
+</a>
 
 </div>
 
@@ -297,202 +338,226 @@ I continuously experiment with new ideas, explore technologies, and develop prac
 
 ---
 
-## ⚡ 04 / MY TECH UNIVERSE
+<!-- ======================= TECH STACK ===================== -->
+
+## <img src="https://img.shields.io/badge/04-TECHNOLOGIES-0F766E?style=flat-square" alt="04"/> Technology Stack
 
 <div align="center">
 
-  <samp>TOOLS ARE MY PALETTE. CODE IS MY MEDIUM.</samp>
+  <samp>MY DIGITAL TOOLBOX</samp>
 
   <br/><br/>
 
-  <img src="https://img.shields.io/badge/TECHNOLOGIES-THAT%20I%20WORK%20WITH-065F46?style=for-the-badge" alt="Technology section"/>
+  <img src="https://img.shields.io/badge/LANGUAGES-Programming-101820?style=for-the-badge" alt="Programming languages"/>
 
-</div>
-
-### 01 — Languages
-
-<div align="center">
+  <br/><br/>
 
   <img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,php,go&theme=dark" alt="Programming languages"/>
 
-</div>
+  <br/><br/>
 
-### 02 — Frontend Ecosystem
+  <img src="https://img.shields.io/badge/FRONTEND-Web%20Development-101820?style=for-the-badge" alt="Frontend"/>
 
-<div align="center">
+  <br/><br/>
 
-  <img src="https://skillicons.dev/icons?i=html,css,react,typescript,tailwind,bootstrap,vite&theme=dark" alt="Frontend technologies"/>
+  <img src="https://skillicons.dev/icons?i=html,css,react,typescript,tailwind,bootstrap&theme=dark" alt="Frontend technologies"/>
 
-</div>
+  <br/><br/>
 
-### 03 — Backend & Databases
+  <img src="https://img.shields.io/badge/BACKEND-%26%20DATABASE-101820?style=for-the-badge" alt="Backend and database"/>
 
-<div align="center">
+  <br/><br/>
 
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,php,mysql,sqlite&theme=dark" alt="Backend and database tools"/>
+  <img src="https://skillicons.dev/icons?i=fastapi,mysql,sqlite,php&theme=dark" alt="Backend and database technologies"/>
 
-</div>
+  <br/><br/>
 
-### 04 — Artificial Intelligence & Computer Vision
+  <img src="https://img.shields.io/badge/AI-INTELLIGENT%20SYSTEMS-101820?style=for-the-badge" alt="AI"/>
 
-<div align="center">
+  <br/><br/>
 
-  <img src="https://skillicons.dev/icons?i=python,opencv&theme=dark" alt="AI and computer vision"/>
+  <img src="https://skillicons.dev/icons?i=python,opencv&theme=dark" alt="AI and Computer Vision"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"/>
 
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+  <br/><br/>
 
-</div>
+  <img src="https://img.shields.io/badge/TOOLS-Development%20Environment-101820?style=for-the-badge" alt="Tools"/>
 
-### 05 — Tools & Platforms
+  <br/><br/>
 
-<div align="center">
-
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,windows,arduino&theme=dark" alt="Developer tools"/>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,windows,arduino&theme=dark" alt="Development tools"/>
 
 </div>
 
 <p align="center">
-  <sub>These represent technologies I've worked with, used in projects, or explored. They are not claims of equal proficiency.</sub>
+  <sub>Technologies shown represent tools I've worked with, used in projects, or explored. Proficiency varies.</sub>
 </p>
 
 ---
 
-## 📊 05 / GITHUB INSIGHTS
+<!-- ======================= ANALYTICS ====================== -->
+
+## <img src="https://img.shields.io/badge/05-ANALYTICS-065F46?style=flat-square" alt="05"/> GitHub Dashboard
 
 <div align="center">
 
-  <samp>A SNAPSHOT OF MY PUBLIC DEVELOPMENT ACTIVITY</samp>
+  <samp>MY OPEN-SOURCE FOOTPRINT</samp>
 
   <br/><br/>
 
-  <!-- GITHUB OVERVIEW -->
   <img
-    src="https://github-readme-stats.vercel.app/api?username=nomankarim8&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=10B981&icon_color=14B8A6&text_color=C9D1D9&rank_icon=github"
+    src="https://github-readme-stats.vercel.app/api?username=nomankarim8&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0B1220&title_color=34D399&icon_color=10B981&text_color=CBD5E1&rank_icon=github"
     width="49%"
-    alt="GitHub overview statistics"
+    alt="GitHub statistics"
   />
   <img
-    src="https://streak-stats.demolab.com?user=nomankarim8&theme=dark&hide_border=true&background=0D1117&ring=10B981&fire=10B981&currStreakLabel=10B981&sideLabels=C9D1D9&dates=8B949E"
+    src="https://streak-stats.demolab.com?user=nomankarim8&hide_border=true&background=0B1220&ring=10B981&fire=34D399&currStreakLabel=34D399&sideLabels=CBD5E1&dates=94A3B8"
     width="49%"
-    alt="GitHub streak statistics"
+    alt="Contribution streak"
   />
 
   <br/><br/>
 
-  <!-- LANGUAGE DISTRIBUTION -->
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomankarim8&layout=donut&langs_count=8&hide_border=true&bg_color=0D1117&title_color=10B981&text_color=C9D1D9"
-    width="42%"
-    alt="Programming language distribution"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomankarim8&layout=donut&langs_count=8&hide_border=true&bg_color=0B1220&title_color=34D399&text_color=CBD5E1"
+    width="43%"
+    alt="Most used languages"
   />
 
   <br/><br/>
 
-  <!-- CONTRIBUTION ACTIVITY -->
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=nomankarim8&bg_color=0D1117&color=10B981&line=0F766E&point=34D399&area=true&hide_border=true&custom_title=Contribution%20Activity"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=nomankarim8&bg_color=0B1220&color=34D399&line=059669&point=6EE7B7&area=true&hide_border=true&custom_title=Contribution%20Timeline"
     width="100%"
-    alt="GitHub contribution activity"
+    alt="Contribution graph"
   />
 
   <br/><br/>
 
-  <!-- TROPHIES -->
   <img
-    src="https://github-profile-trophy.vercel.app/?username=nomankarim8&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=4"
+    src="https://github-profile-trophy.vercel.app/?username=nomankarim8&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=4"
     width="95%"
-    alt="GitHub achievements"
+    alt="GitHub trophies"
   />
 
-  <br/>
-
-  <sub>Statistics are provided by external services and may occasionally be unavailable or delayed.</sub>
-
-  <br/>
+  <br/><br/>
 
   <a href="https://github.com/nomankarim8">
-    <b>View my actual GitHub activity →</b>
+    <b>Explore my GitHub profile →</b>
   </a>
+
+  <br/>
+
+  <sub>Statistics are generated by third-party services and may be delayed or temporarily unavailable.</sub>
 
 </div>
 
 ---
 
-## 🖥️ 06 / THE DEVELOPER'S CORNER
+<!-- ======================= TERMINAL ======================= -->
+
+## <img src="https://img.shields.io/badge/06-TERMINAL-047857?style=flat-square" alt="06"/> Inside My Developer Mind
 
 <div align="center">
 
-  <img src="https://img.shields.io/badge/STATUS-ALWAYS%20LEARNING-065F46?style=for-the-badge&logo=github&logoColor=white" alt="Always learning"/>
+  <img src="https://img.shields.io/badge/USER-noman@developer-111827?style=flat-square&logo=linux&logoColor=34D399" alt="Terminal user"/>
+  <img src="https://img.shields.io/badge/SHELL-bash-111827?style=flat-square&logo=gnubash&logoColor=34D399" alt="Shell"/>
+  <img src="https://img.shields.io/badge/STATUS-LEARNING-065F46?style=flat-square" alt="Learning status"/>
 
 </div>
 
-### My Philosophy
+```bash
+┌──(noman㉿developer)-[~/world]
+└─$ whoami
 
-I don't want to just learn technologies. I want to understand them, experiment with them, and use them to solve meaningful problems.
+Noman Karim
 
-### A Little Python
+┌──(noman㉿developer)-[~/world]
+└─$ cat interests.txt
+
+Software Engineering
+Artificial Intelligence
+Computer Vision
+Full-Stack Development
+Ethical Cybersecurity
+
+┌──(noman㉿developer)-[~/world]
+└─$ ./daily_routine.sh
+
+[+] Learn something new
+[+] Build something useful
+[+] Debug something unexpected
+[+] Improve yesterday's work
+
+┌──(noman㉿developer)-[~/world]
+└─$ echo "Never stop exploring."
+
+Never stop exploring.
+```
+
+### My Programming Philosophy
 
 ```python
-class Developer:
-    def __init__(self, name):
-        self.name = name
-        self.values = ["Curiosity", "Consistency", "Creativity"]
+class NomanKarim:
+    def __init__(self):
+        self.mindset = "Continuous Learning"
+        self.values = [
+            "Curiosity",
+            "Consistency",
+            "Creativity",
+            "Problem Solving"
+        ]
 
-    def build(self, idea):
-        return f"Turning '{idea}' into something useful."
-
-    def mindset(self):
-        return "Learn → Build → Break → Improve"
+    def next_step(self):
+        return "Learn → Build → Improve"
 
 
-noman = Developer("Noman Karim")
-
-print(noman.build("Something meaningful"))
-print(noman.mindset())
+developer = NomanKarim()
+print(developer.next_step())
 ```
 
 ---
 
-## 🤝 07 / LET'S CONNECT
+<!-- ======================= CONTACT ======================== -->
+
+## <img src="https://img.shields.io/badge/07-CONTACT-0F766E?style=flat-square" alt="07"/> Let's Create Something
 
 <div align="center">
 
-  <h3>Good ideas become better when we build together.</h3>
+  ### Great things start with a conversation.
 
-  I'm interested in connecting with developers, exchanging ideas, learning from others, and collaborating on meaningful software projects.
+  Interested in exchanging ideas, discussing technology, or collaborating on a meaningful project?
+
+  Feel free to reach out.
 
   <br/>
 
-  <a href="https://github.com/nomankarim8">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="mailto:karimnoman97@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/nomankarim8/">
+    <img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://nomankarim8.github.io/nomanakarim8-Portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-065F46?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="mailto:karimnoman97@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/WEBSITE-Portfolio-065F46?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
 
   <br/><br/>
 
-  <samp>THANK YOU FOR STOPPING BY!</samp>
+  <samp>THANK YOU FOR EXPLORING MY PROFILE</samp>
 
-  <br/>
-
-  <b>Keep creating. Keep exploring. Keep moving forward.</b>
-
-  <br/><br/>
+  <h3>✦ Keep Building. Keep Becoming. ✦</h3>
 
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:10B981,50:064E3B,100:07111F"
+    src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:10B981,45:065F46,100:050816"
     width="100%"
-    alt="Emerald footer"
+    alt="Emerald gradient footer"
   />
 
-  <sub>Crafted with curiosity &hearts; by Noman Karim</sub>
+  <sub>Designed with curiosity &hearts; by Noman Karim</sub>
 
 </div>
 
-<!-- =========================================================
-     END OF NOMAN KARIM PROFILE README
-     ========================================================= -->
+<!-- ==========================================================
+     END — NOMAN KARIM
+     ========================================================== -->
