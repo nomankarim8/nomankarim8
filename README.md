@@ -4,11 +4,15 @@
  alt="Noman Karim — Developer Portfolio"
 />
 
+<!-- =========================================================
+     NOMAN KARIM | GitHub Profile README
+     Repository: https://github.com/nomankarim8/nomankarim8
+     Theme: Midnight Navy · Emerald · Teal
+     ========================================================= -->
 
 <div align="center">
 
-  <!-- Animated original header -->
-  <img src="./assets/animations/developer-header.gif" width="100%" alt="Animated Noman Karim developer banner" />
+
 
   <br />
 
