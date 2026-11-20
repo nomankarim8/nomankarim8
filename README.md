@@ -1,4 +1,8 @@
-
+<img
+ src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:050816,35:102A43,70:065F46,100:10B981&text=NOMAN%20KARIM&fontSize=64&fontColor=FFFFFF&fontAlignY=36&desc=SOFTWARE%20DEVELOPER%20%20%7C%20%20TECH%20ENTHUSIAST&descSize=16&descAlignY=56&animation=fadeIn"
+ width="100%"
+ alt="Noman Karim — Developer Portfolio"
+/>
 
 <!-- =========================================================
      NOMAN KARIM | GitHub Profile README
